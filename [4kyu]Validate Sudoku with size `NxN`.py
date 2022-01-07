@@ -2,6 +2,7 @@
 Given a Sudoku data structure with size NxN, N > 0 and √N == integer, 
 write a method to validate if it has been filled out correctly.
 '''
+
 import math
 from typing import Type
 class Sudoku(object):
